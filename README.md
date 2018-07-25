@@ -1,4 +1,4 @@
-## Rails Girls 2015
+## UCLA SOC 2 2018
 
     ---
 
